@@ -1,6 +1,6 @@
 # sem_proj
 
-A new Flutter project.
+We developed an App for students to adjust when moving to a new country or city. This app shows all the things a student needs to settle in a new place wether it's the emergency contacts, university contact persons, grocery stores, hospitals etc. This app is inspired from my personal story, when I faced issues when moving to Austria for my semester exchange.
 
 ## Getting Started
 
